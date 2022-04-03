@@ -2,6 +2,7 @@
 I just made this list to arrange different gamedev resources. I just get tired of looking through different Google Spreadsheets, reddit topics and repositories. So I just decided to create my own awesome list based on differnt sources.
 
 **Based on**
+- My own research and data
 - [Reddit topic about gamedev tools](https://www.reddit.com/r/gamedev/comments/tp4fuz/what_is_the_one_gamemaking_tool_you_use_that_you/)
 
 # "Still supported" Explanation
@@ -69,7 +70,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | [Bevy](https://bevyengine.org)                      | Rust                 | ✅               |
 | [Cocos2d-x](https://www.cocos.com/en/docs#2dx)      | C++, JavaScript, Lua | ✅               |
 | [Defold](https://defold.com)                        | Lua                  | ✅               |
-| [Godot](https://godotengine.org)                    | GDScript             | ✅               |
+| [Godot](https://godotengine.org)                    | GDScript, C#         | ✅               |
 | [PyGame](https://github.com/pygame/pygame)          | Python               | ✅               |
 | [Raylib](https://www.raylib.com)                    | C++                  | ✅               |
 | [Unity3D](https://unity.com) (aka Unity)            | C#                   | ✅               |
@@ -78,13 +79,16 @@ I just made this list to arrange different gamedev resources. I just get tired o
 ## GameDesign
 
 
-| Title                                                                                                                                      | Topic         | Type                             | Still supported? | Licence |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | -------------------------------- | ---------------- | ------- |
-| [Desmos](https://www.desmos.com/calculator)                                                                                                | System Design | Tool for formulas visualizations | ✅               | Free    |
-| [Level Design. In Pursuit of Better Levels. Alex K.](https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/edit) | Level Design  | Google Document                  | 〰️              | Free    |
-| [Loopy](https://ncase.me/loopy/)                                                                                                           | System Design | Tool for systems visualizastion  | ❌               | Free    |
-| [PlantUML](https://plantuml.com)                                                                                                           | System Design | Tool for creating charts         | ✅               | Free    |
-| [Tiled](https://www.mapeditor.org)                                                                                                         | Level Design  | 2D Level editor                  | ✅               | Free    |
+| Title                                                                                                                                      | Topic                        | Type                                           | Still supported? | Licence                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- | ---------------------------------------------- | ---------------- | ------------------------------------------------- |
+| [Articy](https://www.articy.com/en/)                                                                                                       | Narrative and Content Design | Tool for content and narration managment       | ✅               | Free trial                                        |
+| [Desmos](https://www.desmos.com/calculator)                                                                                                | System Design                | Tool for formulas visualizations               | ✅               | Free                                              |
+| [Level Design. In Pursuit of Better Levels. Alex K.](https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/edit) | Level Design                 | Google Document                                | 〰️              | Free                                              |
+| [Loopy](https://ncase.me/loopy/)                                                                                                           | System Design                | Tool for systems visualizastion                | ❌               | Free                                              |
+| [Machinations](https://machinations.io)                                                                                                    | System Design                | Tools for formulas and gameplay systems design | ✅               | Free limited to 1 user and 3 days version history |
+| [PlantUML](https://plantuml.com)                                                                                                           | System Design                | Tool for creating charts                       | ✅               | Free                                              |
+| [Tiled](https://www.mapeditor.org)                                                                                                         | Level Design                 | 2D Level editor                                | ✅               | Free                                              |
+| [Twine](https://twinery.org)                                                                                                               | Narrative Design             | Tool for narrative design                      | ✅               | Free                                              |
 
 ## Localization
 
