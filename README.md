@@ -26,7 +26,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 - [Localization](#Localization)
 - [Marketing](#Marketing)
 - [Project Managment](#ProjectManagment)
-- [Programming](#Programming)
+- [Programming and scripting](#Programming)
 - [UI/UX](#UiUx)
 
 ## Animations
@@ -108,6 +108,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------- |
 | [Depot](https://depot-editor.com)                      | **[DEPOT](https://marketplace.visualstudio.com/items?itemName=afterschool.depot)** is a data editor built inside of **Visual Studio Code** that allows you to edit JSON data like a spreadsheet | ❌               | Free    |
 | [DnSpy](https://github.com/dnSpy/dnSpy)                | .NET debugger and assembly editor                                                                                                                                                               | ❌               | Free    |
+| [Flow Graph](https://github.com/MothCocoon/FlowGraph)  | Design-agnostic node system for scripting game’s flow in Unreal Engine                                                                                                                          | ✅               | Free    |
 | [ParrelSync](https://github.com/VeriorPies/ParrelSync) | Test multiplayer without building for Unity3D                                                                                                                                                   | ❌               | Free    |
 
 ## ProjectManagment
