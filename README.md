@@ -23,6 +23,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 - [Graphics](#Graphics)
 - [Engines](#Engines)
 - [Game Design (Tools &  Learning Sources)](#GameDesign)
+- [Feedback from Players and QA](#FeedbackAndQA)
 - [Localization](#Localization)
 - [Marketing](#Marketing)
 - [Project Managment](#ProjectManagment)
@@ -76,8 +77,17 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | [Unity3D](https://unity.com) (aka Unity)            | C#                   | ✅               |
 | [Unreal Engine](https://www.unrealengine.com/en-US) | C++, Blueprint       | ✅               |
 
-## GameDesign
 
+## FeedbackAndQA
+
+| Name                                                                       | Description                                                                                                                                          | Still supported | Licence                       |
+| -------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | ----------------------------- |
+| [Decky](https://www.codecks.io/features/discord-integration/)              | Collect feature requests, ideas and bug reports directly from your Discord community.                                                                | ✅              | Free                          |
+| [Input Overlay](https://obsproject.com/forum/resources/input-overlay.552/) | Input Overlay is a small plugin for obs studio that shows keyboard, mouse and gamepad inputs on stream. It adds a new source for visualizing inputs. | ❌              | Free                          |
+| [OBS](https://obsproject.com)                                              | Free and open source software for video recording and live streaming.                                                                                | ✅              | Free                          |
+| [Upvoty](https://www.upvoty.com)                                           | Know what to build next and inform your customers when you ship!                                                                                     | ✅              | Commercial (from 15USD/month) |
+
+## GameDesign
 
 | Title                                                                                                                                      | Topic                        | Type                                           | Still supported? | Licence                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- | ---------------------------------------------- | ---------------- | ------------------------------------------------- |
