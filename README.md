@@ -25,7 +25,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 - [Game Design (Tools &  Learning Sources)](#GameDesign)
 - [Feedback from Players and QA](#FeedbackAndQA)
 - [Localization](#Localization)
-- [Marketing](#Marketing)
+- [Marketing and Bizdev](#MarketingAndBizDev)
 - [Project Managment](#ProjectManagment)
 - [Programming and scripting](#Programming)
 - [UI/UX](#UiUx)
@@ -106,12 +106,13 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | --------------- |
 | [Polyglot](https://docs.google.com/spreadsheets/d/17f0dQawb-s_Fd7DHgmVvJoEGDMH_yoSd8EYigrb0zmM/edit#gid=310116733) | Start localizing your game, using this human translated resource for the basics. | ❌              |
 
-## Marketing
+## MarketingAndBizDev
 
-| Name                                                                                                                                | Description (from website or repository)                                                                                                                                   | Type   | Still supported? |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------- |
-| [ScreenToGif](https://www.screentogif.com/downloads)                                                                                | ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.                                                                       | Tool   | ✅               |
-| [Steam Assets for Export, Explained](https://www.figma.com/community/file/1093262696045150287/Steam-Assets-for-Export%2C-Explained) | These are graphical assets for Steamworks project. Prepared for export with correct dimensions and names, explained with examples from real world, linked to documentation | Assets | 〰️              |
+| Name                                                                                                                                | Description (from website or repository)                                                                                                                                   | Type                        | Still supported? |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ---------------- |
+| [ScreenToGif](https://www.screentogif.com/downloads)                                                                                | ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.                                                                       | Tool                        | ✅               |
+| [Steam Assets for Export, Explained](https://www.figma.com/community/file/1093262696045150287/Steam-Assets-for-Export%2C-Explained) | These are graphical assets for Steamworks project. Prepared for export with correct dimensions and names, explained with examples from real world, linked to documentation | Assets                      | 〰️              |
+| [Steam Revenue Calculator](https://chrome.google.com/webstore/detail/steam-revenue-calculator/gjhejidajnchnadcangcodljgdmenipa)     | This Chrome plugin shows the game's revenue inside the Steam store page.It uses the Boxleiter method to calculate estimated app owners then calculates cuts, refunds etc.  | Tool for estimating revenue | ✅               |
 
 ## Programming
 
@@ -134,6 +135,8 @@ I just made this list to arrange different gamedev resources. I just get tired o
 
 ## UiUx
 
-| Name                                           | Description                                                                            | Still Supported? | Licence |
-| ---------------------------------------------- | -------------------------------------------------------------------------------------- | ---------------- | ------- |
-| [InterfaceInGame](https://interfaceingame.com) | Explore a collection of video games interfaces  and find inspiration for your designs. | ❔               | Free    | 
+| Name                                           | Description                                                                                                                                            | Still Supported? | Licence                                                                       |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------- | ----------------------------------------------------------------------------- |
+| [Adobe XD]                                     | Let Adobe XD be your guide in the evolving world of digital. Create realistic prototypes that tell your story and bring the big ideas to life, faster. | ✅               | Free trial (commercial 12.29 EUR/month)                                       |
+| [Figma](https://www.figma.com)                 | Figma connects everyone in the design process so teams can deliver better products, faster.                                                            | ✅               | Free (up to 3 Figma files, unlimited personal files, unlimited collaborators) |
+| [InterfaceInGame](https://interfaceingame.com) | Explore a collection of video games interfaces  and find inspiration for your designs.                                                                 | ❔               | Free                                                                          |
