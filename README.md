@@ -108,9 +108,10 @@ I just made this list to arrange different gamedev resources. I just get tired o
 
 ## Marketing
 
-| Name                                                 | Description (from website or repository)                                                             | Type | Still supported? |
-| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---- | --------------- |
-| [ScreenToGif](https://www.screentogif.com/downloads) | ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video. | Tool | ✅              | 
+| Name                                                                                                                                | Description (from website or repository)                                                                                                                                   | Type   | Still supported? |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------- |
+| [ScreenToGif](https://www.screentogif.com/downloads)                                                                                | ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.                                                                       | Tool   | ✅               |
+| [Steam Assets for Export, Explained](https://www.figma.com/community/file/1093262696045150287/Steam-Assets-for-Export%2C-Explained) | These are graphical assets for Steamworks project. Prepared for export with correct dimensions and names, explained with examples from real world, linked to documentation | Assets | 〰️              |
 
 ## Programming
 
