@@ -4,6 +4,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 **Based on**
 - My own research and data
 - [Reddit topic about gamedev tools](https://www.reddit.com/r/gamedev/comments/tp4fuz/what_is_the_one_gamemaking_tool_you_use_that_you/)
+- [69 Tools We Use To Make Our Game Satisfactory - Coffee Stain](https://www.youtube.com/watch?v=o6ao9-UIZIQ)
 
 # "Still supported" Explanation
 
@@ -16,19 +17,25 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | ❌     | No news or/and repo changes in six months |
 | 〰️    | Not applicable                            | 
 
-# Topics
+# [Tools](#Tools)
 - [Animations](#Animations)
 - [Audio](#Audio)
 - [Assets](#Assets)
 - [Graphics](#Graphics)
 - [Engines](#Engines)
-- [Game Design (Tools &  Learning Sources)](#GameDesign)
+- [Game Design](#GameDesign)
 - [Feedback from Players and QA](#FeedbackAndQA)
 - [Localization](#Localization)
 - [Marketing and Bizdev](#MarketingAndBizDev)
 - [Project Managment](#ProjectManagment)
 - [Programming and scripting](#Programming)
 - [UI/UX](#UiUx)
+
+# [Learning Resources](#LearningResources)
+
+- [Level Design](#LevelDesign)
+
+# Tools
 
 ## Animations
 
@@ -99,16 +106,15 @@ I just made this list to arrange different gamedev resources. I just get tired o
 
 ## GameDesign
 
-| Title                                                                                                                                      | Topic                        | Type                                           | Still supported? | Licence                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- | ---------------------------------------------- | ---------------- | ------------------------------------------------- |
-| [Articy](https://www.articy.com/en/)                                                                                                       | Narrative and Content Design | Tool for content and narration managment       | ✅               | Free trial                                        |
-| [Desmos](https://www.desmos.com/calculator)                                                                                                | System Design                | Tool for formulas visualizations               | ✅               | Free                                              |
-| [Level Design. In Pursuit of Better Levels. Alex K.](https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/edit) | Level Design                 | Google Document                                | 〰️              | Free                                              |
-| [Loopy](https://ncase.me/loopy/)                                                                                                           | System Design                | Tool for systems visualizastion                | ❌               | Free                                              |
-| [Machinations](https://machinations.io)                                                                                                    | System Design                | Tools for formulas and gameplay systems design | ✅               | Free limited to 1 user and 3 days version history |
-| [PlantUML](https://plantuml.com)                                                                                                           | System Design                | Tool for creating charts                       | ✅               | Free                                              |
-| [Tiled](https://www.mapeditor.org)                                                                                                         | Level Design                 | 2D Level editor                                | ✅               | Free                                              |
-| [Twine](https://twinery.org)                                                                                                               | Narrative Design             | Tool for narrative design                      | ✅               | Free                                              |
+| Title                                       | Description                                                                                                                                                                                                                                             | Still supported? | Licence                                           |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------- |
+| [Articy](https://www.articy.com/en/)        | The solution for interactive storytelling  and game content management.                                                                                                                                                                                 | ✅               | Free trial                                        |
+| [Desmos](https://www.desmos.com/calculator) | Desmos wants to build a world where every student learns math and loves learning math, where a student’s access to the power and beauty of math doesn't depend on their place of birth, race, ethnicity, gender, or any other aspect of their identity. | ✅               | Free                                              |
+| [Loopy](https://ncase.me/loopy/)            | In a world filled with ever-more-complex technological, sociological, ecological, political & economic systems... a tool to make interactive simulations may not be that much help.                                                                     | ❌               | Free                                              |
+| [Machinations](https://machinations.io)     | Predict Game Economies & Systems                                                                                                                                                                                                                        | ✅               | Free limited to 1 user and 3 days version history |
+| [PlantUML](https://plantuml.com)            | **PlantUML** is used to _draw_ UML diagrams, using a simple and human readable text description.                                                                                                                                                        | ✅               | Free                                              |
+| [Tiled](https://www.mapeditor.org)          | Tiled is a 2D level editor that helps you develop the content of your game.                                                                                                                                                                             | ✅               | Free                                              |
+| [Twine](https://twinery.org)                | # Twine is an open-source tool for telling interactive, nonlinear stories.                                                                                                                                                                              | ✅               | Free                                              |
 
 ## Localization
 
@@ -166,3 +172,11 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | [Adobe XD](https://www.adobe.com/pl/products/xd.html) | Let Adobe XD be your guide in the evolving world of digital. Create realistic prototypes that tell your story and bring the big ideas to life, faster. | ✅               | Free trial (commercial 12.29 EUR/month)                                       |
 | [Figma](https://www.figma.com)                        | Figma connects everyone in the design process so teams can deliver better products, faster.                                                            | ✅               | Free (up to 3 Figma files, unlimited personal files, unlimited collaborators) |
 | [InterfaceInGame](https://interfaceingame.com)        | Explore a collection of video games interfaces  and find inspiration for your designs.                                                                 | ❔               | Free                                                                          |
+
+# LearningResources
+
+## LevelDesign
+
+| Title                                                                                                                             | Author  | Type |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------- | ---- |
+| [Level Design. In Pursuit of Better Levels](https://docs.google.com/document/d/1fAlf2MwEFTwePwzbP3try1H0aYa9kpVBHPBkyIq-caY/edit) | Alex K. | Text |
