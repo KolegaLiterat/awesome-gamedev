@@ -132,11 +132,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | [Sankeymatic](https://sankeymatic.com/build/)                                                                        | Graph visualization                                                                                                                                                                                                                                     | ✅               | Free                                              |
 | [Tiled](https://www.mapeditor.org)                                                                                   | Tiled is a 2D level editor that helps you develop the content of your game.                                                                                                                                                                             | ✅               | Free                                              |
 | [Twine](https://twinery.org)                                                                                         | Twine is an open-source tool for telling interactive, nonlinear stories.                                                                                                                                                                                | ✅               | Free                                              |
-<<<<<<< Updated upstream
-| [inky](https://www.inklestudios.com/ink/)                                                                            | A narrative scripting language for games.                                                                                                                                                                                                               | ❌               | Free                                              |
-=======
 | [Yarn](https://yarnspinner.dev/)                                                                                     | **Yarn Spinner** helps you build branching narrative and dialogue in games. It's easy for writers to use, and has powerful features for integrating your content straight into your game.                                                               | ✅               | Free                                              |
->>>>>>> Stashed changes
 
 ## Localization
 
