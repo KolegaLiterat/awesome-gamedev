@@ -96,16 +96,18 @@ I just made this list to arrange different gamedev resources. I just get tired o
 
 ## Engines
 
-| Name                                                | Programming language | Still supported? |
-| --------------------------------------------------- | -------------------- | ---------------- |
-| [Bevy](https://bevyengine.org)                      | Rust                 | ✅               |
-| [Cocos2d-x](https://www.cocos.com/en/docs#2dx)      | C++, JavaScript, Lua | ✅               |
-| [Defold](https://defold.com)                        | Lua                  | ✅               |
-| [Godot](https://godotengine.org)                    | GDScript, C#         | ✅               |
-| [PyGame](https://github.com/pygame/pygame)          | Python               | ✅               |
-| [Raylib](https://www.raylib.com)                    | C++                  | ✅               |
-| [Unity3D](https://unity.com) (aka Unity)            | C#                   | ✅               |
-| [Unreal Engine](https://www.unrealengine.com/en-US) | C++, Blueprint       | ✅               |
+| Name                                                     | Programming language | Still supported? |
+| -------------------------------------------------------- | -------------------- | ---------------- |
+| [Amalgam Engine](https://github.com/Net5F/AmalgamEngine) | C++                  | ✅               |
+| [Bevy](https://bevyengine.org)                           | Rust                 | ✅               |
+| [Cocos2d-x](https://www.cocos.com/en/docs#2dx)           | C++, JavaScript, Lua | ✅               |
+| [Defold](https://defold.com)                             | Lua                  | ✅               |
+| [Godot](https://godotengine.org)                         | GDScript, C#         | ✅               |
+| [Heaps](https://heaps.io/index.html)                     | Haxe                 | ✅               |
+| [PyGame](https://github.com/pygame/pygame)               | Python               | ✅               |
+| [Raylib](https://www.raylib.com)                         | C++                  | ✅               |
+| [Unity3D](https://unity.com) (aka Unity)                 | C#                   | ✅               |
+| [Unreal Engine](https://www.unrealengine.com/en-US)      | C++, Blueprint       | ✅               |
 
 
 ## FeedbackAndQA
