@@ -108,6 +108,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | [Defold](https://defold.com)                                | Lua                  | ✅               |
 | [Godot](https://godotengine.org)                            | GDScript, C#         | ✅               |
 | [Heaps](https://heaps.io/index.html)                        | Haxe                 | ✅               |
+| [JNGL](https://github.com/jhasse/jngl).                     | C++.                 | ✅               |
 | [PyGame](https://github.com/pygame/pygame)                  | Python               | ✅               |
 | [Raylib](https://www.raylib.com)                            | C++                  | ✅               |
 | [Stride](https://www.stride3d.net/blog/release-stride-4-1/) | C#                   | ✅               |
