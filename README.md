@@ -5,6 +5,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 - My own research and data
 - [Reddit topic about gamedev tools](https://www.reddit.com/r/gamedev/comments/tp4fuz/what_is_the_one_gamemaking_tool_you_use_that_you/)
 - [69 Tools We Use To Make Our Game Satisfactory - Coffee Stain](https://www.youtube.com/watch?v=o6ao9-UIZIQ)
+- [Open source is democratizing video game development](https://github.com/readme/featured/open-source-democratizing-video-games)
 
 # "Still supported" Explanation
 
@@ -110,9 +111,12 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | [Defold](https://defold.com)                                | Lua                  | ✅               |
 | [Godot](https://godotengine.org)                            | GDScript, C#         | ✅               |
 | [Heaps](https://heaps.io/index.html)                        | Haxe                 | ✅               |
-| [JNGL](https://github.com/jhasse/jngl)                     | C++.                 | ✅               |
+| [JNGL](https://github.com/jhasse/jngl)                      | C++.                 | ✅               |
+| [LibGDX](https://libgdx.com/)                               | Java                 | ✅               |
+| [Phaser](https://github.com/photonstorm/phaser)             | Javaspcript          | ✅               |
 | [PyGame](https://github.com/pygame/pygame)                  | Python               | ✅               |
 | [Raylib](https://www.raylib.com)                            | C++                  | ✅               |
+| [Ren'Py](https://www.renpy.org/)                            | Python               | ✅               |
 | [Stride](https://www.stride3d.net/blog/release-stride-4-1/) | C#                   | ✅               |
 | [Unity](https://unity.com) (aka Unity3D)                    | C#                   | ✅               |
 | [Unreal Engine](https://www.unrealengine.com/en-US)         | C++, Blueprint       | ✅               |
@@ -132,7 +136,9 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | Title                                                                                                                | Description                                                                                                                                                                                                                                             | Still supported? | Licence                                           |
 | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------- |
 | [Articy](https://www.articy.com/en/)                                                                                 | The solution for interactive storytelling  and game content management.                                                                                                                                                                                 | ✅               | Free trial                                        |
+| [Bitsy](https://github.com/le-doux/bitsy)                                                                            | Make tiny games, worlds, and stories                                                                                                                                                                                                                    | ✅               | Free                                              |
 | [Desmos](https://www.desmos.com/calculator)                                                                          | Desmos wants to build a world where every student learns math and loves learning math, where a student’s access to the power and beauty of math doesn't depend on their place of birth, race, ethnicity, gender, or any other aspect of their identity. | ✅               | Free                                              |
+| [GBStudio](https://www.gbstudio.dev/)                                                                                | A **quick** and **easy** to use **drag and drop** retro **game creator** for your favourite handheld video game system.                                                                                                                                 | ✅               | Free                                              |
 | [Game design template](https://glamorous-save-06a.notion.site/Game-design-template-0132383574dd4c2dbff5d14e3a90761c) | Template for initial stage of game development                                                                                                                                                                                                          | ✅               | Free                                              |
 | [Inky](https://www.inklestudios.com/ink/)                                                                            | A narrative scripting language for games.                                                                                                                                                                                                               | ❌               | Free                                              |
 | [Loopy](https://ncase.me/loopy/)                                                                                     | In a world filled with ever-more-complex technological, sociological, ecological, political & economic systems... a tool to make interactive simulations may not be that much help.                                                                     | ❌               | Free                                              |
