@@ -214,6 +214,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | [TeamCity](https://www.jetbrains.com/teamcity/)                               | Powerful continuous integration for DevOps-centric teams                                                                                                                                        | ✅               | Free                       |
 | [UniMod](https://github.com/katas94/UniMod)                                   | Adds modding support to your Unity project                                                                                                                                                      | ✅               | Free                       |
 | [Unity Decision Tree](https://github.com/KieranCoppins/Decision-Tree-Package) | A Unity Package for creating and editing decision trees                                                                                                                                         | ✅               | Free                       |
+| [UnityDataTools](https://github.com/Unity-Technologies/UnityDataTools)        | Experimental tools and libraries for reading and analyzing Unity data files.                                                                                                                    | ✅               | Free                       |
 | [Visual Studio Code](https://visualstudio.microsoft.com)                      | A standalone source code editor that runs on Windows, macOS, and Linux.                                                                                                                         | ✅               | Free                       |
 | [Visual Studio](https://visualstudio.microsoft.com)                           | The best comprehensive IDE for .NET and C++ developers on Windows.                                                                                                                              | ✅               | Free                       |
 
@@ -241,6 +242,12 @@ I just made this list to arrange different gamedev resources. I just get tired o
 
 # LearningResources
 
+## Marketing
+
+| Title                                                                                                                                                       | Author  | Type           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | -------------- |
+| [2023 Data-Driven Indie dev survival guide](https://ink-machine-15b.notion.site/2023-Data-Driven-Indie-dev-survival-guide-d3add64edd544ca2bf7229c183b976ee) | PaniCer | Notion Article | 
+
 ## LevelDesign
 
 | Title                                                                                                                             | Author  | Type |
@@ -252,4 +259,5 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | Title                                                                                                      | Author         | Type                                 |
 | ---------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------ |
 | [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)                             | Robert Nystorm | Text                                 |
-| [Unreal Engine Guide](https://github.com/mikeroyal/Unreal-Engine-Guide#getting-started-with-unreal-engine) | Michael Royal  | Github repo with plenty of resources | 
+| [Into the Breach AI](https://docs.google.com/document/d/1OPRNzAVQNgPtP35HzhV2ZzEqE1eCdXbWA7lEZXDdMHQ/edit) | Matthew Davis  | Text                                 |
+| [Unreal Engine Guide](https://github.com/mikeroyal/Unreal-Engine-Guide#getting-started-with-unreal-engine) | Michael Royal  | Github repo with plenty of resources |
