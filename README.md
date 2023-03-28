@@ -115,6 +115,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | ----------------------------------------------------------- | -------------------- | ---------------- |
 | [Amalgam Engine](https://github.com/Net5F/AmalgamEngine)    | C++                  | ✅               |
 | [Bevy](https://bevyengine.org)                              | Rust                 | ✅               |
+| [Castle Game Engine](https://castle-engine.io/)             | Modern Pascal        | ✅               |
 | [Cocos2d-x](https://www.cocos.com/en/docs#2dx)              | C++, JavaScript, Lua | ✅               |
 | [Construct](https://www.construct.net/en)                   | JavaScript           | ✅               |
 | [Defold](https://defold.com)                                | Lua                  | ✅               |
@@ -122,6 +123,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | [Heaps](https://heaps.io/index.html)                        | Haxe                 | ✅               |
 | [JNGL](https://github.com/jhasse/jngl)                      | C++.                 | ✅               |
 | [LibGDX](https://libgdx.com/)                               | Java                 | ✅               |
+| [NeoAxis](https://www.neoaxis.com/neoaxis/overview)         | C#, Visual Scripting | ✅               |
 | [Phaser](https://github.com/photonstorm/phaser)             | Javaspcript          | ✅               |
 | [PyGame](https://github.com/pygame/pygame)                  | Python               | ✅               |
 | [Raylib](https://www.raylib.com)                            | C++                  | ✅               |
