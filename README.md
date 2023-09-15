@@ -123,6 +123,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | [Cocos2d-x](https://www.cocos.com/en/docs#2dx)              | C++, JavaScript, Lua | ✅               |
 | [Construct](https://www.construct.net/en)                   | JavaScript           | ✅               |
 | [Defold](https://defold.com)                                | Lua                  | ✅               |
+| [Flax](https://flaxengine.com/features/)                    | C++, C#              | ✅               |
 | [Godot](https://godotengine.org)                            | GDScript, C#         | ✅               |
 | [Heaps](https://heaps.io/index.html)                        | Haxe                 | ✅               |
 | [JNGL](https://github.com/jhasse/jngl)                      | C++.                 | ✅               |
