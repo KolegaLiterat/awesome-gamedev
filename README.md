@@ -19,6 +19,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | 〰️    | Not applicable                            | 
 
 # [Tools](#Tools)
+- [AI](#AI)
 - [Animations](#Animations)
 - [Audio](#Audio)
 - [Assets](#Assets)
@@ -38,6 +39,13 @@ I just made this list to arrange different gamedev resources. I just get tired o
 - [Programming](#Programming)
 
 # Tools
+
+## AI
+
+| Name                  | Descriotion                                   | Still supported? | Licence      |
+| --------------------- | --------------------------------------------- | ---------------- | ------------ |
+| [Coplay](https://coplay.dev?ref=github&utm_source=kolegaliterat_awesome_gamedev)  | Get more done faster with Coplay's multi-agent AI Assistant for Unity| ✅      | Commercial                                                         |
+| [Unity Muse](https://unity.com/products/muse) | Unity's suite of AI products         | ✅        | Commercial   |
 
 ## Animations
 
