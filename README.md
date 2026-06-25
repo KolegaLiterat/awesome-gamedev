@@ -45,6 +45,7 @@ I just made this list to arrange different gamedev resources. I just get tired o
 | Name                  | Descriotion                                   | Still supported? | Licence      |
 | --------------------- | --------------------------------------------- | ---------------- | ------------ |
 | [Coplay](https://coplay.dev?ref=github&utm_source=kolegaliterat_awesome_gamedev)  | Get more done faster with Coplay's multi-agent AI Assistant for Unity| ✅      | Commercial                                                         |
+| [Roblox GUI Maker](https://robloxguimaker.dev/) | Free AI-assisted Roblox Studio ScreenGui, HUD, menu, and Lua UI starter-code planner | ✅ | Free |
 | [Unity Muse](https://unity.com/products/muse) | Unity's suite of AI products         | ✅        | Commercial   |
 
 ## Animations
